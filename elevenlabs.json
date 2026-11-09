@@ -1,0 +1,12 @@
+{
+  "client_id": "https://charlesperrotminot.github.io/tpi-router-oauth/elevenlabs.json",
+  "client_name": "TPI Router ElevenLabs",
+  "client_uri": "https://charlesperrotminot.github.io/tpi-router-oauth/",
+  "redirect_uris": [
+    "https://tpi1-node1.fiordland-pangolin.ts.net/oauth/elevenlabs/callback"
+  ],
+  "token_endpoint_auth_method": "none",
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "scope": "flows text_to_speech"
+}
