@@ -1,7 +1,7 @@
 {
-  "client_id": "https://charlesperrotminot.github.io/tpi-router-oauth/elevenlabs.json",
-  "client_name": "TPI Router ElevenLabs",
-  "client_uri": "https://charlesperrotminot.github.io/tpi-router-oauth/",
+  "client_id": "https://develoguard.github.io/tpi-llm-router-oauth/elevenlabs.json",
+  "client_name": "TPI LLM Router ElevenLabs",
+  "client_uri": "https://develoguard.github.io/tpi-llm-router-oauth/",
   "redirect_uris": [
     "https://tpi1-node1.fiordland-pangolin.ts.net/oauth/elevenlabs/callback"
   ],
